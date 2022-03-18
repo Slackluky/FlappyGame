@@ -7,7 +7,7 @@ var TEXT_TRY_AGAIN = 'TRY AGAIN';
 var TEXT_PLAY_BGM = 'PLAY BGM';
 var TEXT_TIME_ELAPSED = '- %s s';
 var TEXT_TOTAL_TIME_ELAPSED = 'TOTAL TIME ELAPSED %s S';
-var TEXT_TINY_TIPS = '[微小的提示]\nTIPS';
+var TEXT_TINY_TIPS = '[By Luky]\nTIPS';
 var TEXT_FONT = '"Segoe UI", "Microsoft YaHei", 宋体, sans-serif'; // 插入宋体
 
 var _gravity = 40,
